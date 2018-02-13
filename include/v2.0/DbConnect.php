@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Handling database connection
  *
@@ -7,9 +6,9 @@
  * @link URL Tutorial link
  */
 class DbConnect {
-
+    
     private $conn;
-
+    
     function __construct() {        
     }
 
@@ -44,5 +43,4 @@ class DbConnect {
 
     }
 }
-
 ?>
