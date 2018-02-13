@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "expodent-chandigarh-179111",
+  "private_key_id": "468f61be7ab2dee37a322c2ef1e2b906794c05bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD7naPwsNCEyrvu\nnQiaR/ZwE32AsSk8Prn47R+XmGrTYilevAZVfg6fSBqztYJNMGBZson4em8Z+UY5\nNZ3cdSvkOF2LnFfzqRXdAZMsRldNfjvacSp5Vxt1RTTnWC4D7AklgSdspS3461ce\nWRNJx70TQg9sVyvJ8lgM+leSAO7R/3qFMoOHhrUfUbkDPLk9HryQoMifchnhqSiC\nt1pH2D5rA/AcF5dmB2Kg8beTlGNTrNCGvi32HrGQ/N3iR0FC9eF8YfctuWdMiDcD\nFM4sscZnm6sSpy/ylouYQueYsdG9GyJbe9IyrNRBLXjWJTtEqymP8B+v7zG/1TCG\n4x72bCbTAgMBAAECggEAHFnsZYv+yt+vIllWZU/zgDhp/Uy5CT1GJjrNwv6dFtlq\nMO79xbdQ/XiZ7aLnnjvzt1erPTDKgQI5++tDMNqRCgOh4r/Ilz93o7HwO95nKues\n5dW3g/mhMesM5X5lnPKFK1EsuIy6K+CUreo6hqc3ckqQw1PlLrmcW0YABQcO4eFu\n4jGVL4/cqEHqkOjvnOCtMcGx/72EAZAkVOqcIgFnN/qnDWxGUNF6sWWqBhUmLL/5\nXSkQfmr/0B2m7TtnJLG1qffwM//El7VrWxpqQEZA9bfoIih+J2vT/hYakg67AZbe\nJEuoUrsw3PwuCHZf8RP1SJHjh9tGWJzhQzbk4/mTzQKBgQD+lMOr+9rW+dUC1U7W\nRY7n7cWYI6mASETxR7e9e2Hj0mtmzs6JN+88oWjG6Te6vTJsIUBOQi/n1zt5qGPI\nd1ZKki3hf3axbth2ZWIq3z0YfNiSStYpsZthf/zdHSl9TiE8mqtzKQ7GHLLXiJyQ\nk481wtb9JrASUblQlt/KrTvHJQKBgQD9BKUm/3DbSEF9I/rMoWdfGWwAtt+TaIpN\nI1uDeGShlM3jWOwWRYlWI0yR5OQ7qrxlBAtumglepuXO1PGNEoXfEYek4DMf07yT\nuJ/1E3CmXE1Eod5uCHlkBtUouV5Pmoo1hEq+DAJKzdOsFFYOU7gdl21oS51x+gSV\nLKhpLWvwlwKBgQD3itW87Hc9Y85BJAK1jQtI78WbismtaBhJeI/sGgX0Tc2LOPpR\nKOdiUByelXVQCdn2lFp//hGw4HL/d8IW0htBBWTBiHx0STEH5ssOnuU8Y2D+1u/p\nuL46jwXkRw/pvMfKsyaVIs4vywYHV9nNJv4wq1T68Nxx469K8nmHDO08VQKBgQDh\nmHyw0t2Lh1ds/uGmBtumfYJA+M1MH9AAi2ATTwtaztTsuuJ10TZs6ThidRXS5Z7o\n6rxOt2VXUbRhwJhHUpaumHC7X3P2EtJ3XAyzdcvhaTcz1KgAr+mceEMi9nTSwVYt\n9XC3FvoMPI1ZRyCb0aW+LMBOV+1gLK5dW94lOWyerQKBgQDul111F/+fU0SrSUUf\nRAtW24YiYowCaZ+XEiDDv5qsahbqafS1Q9oSxnZapazIdwo5D2NaF6UVI6pYRi/l\n3PHLsW6y1R//G/2HNM04X5OC6D2Nxp9zo3hQp3EBTKy9uwN5uX/Lb+FM51I8a9nO\nUsWCLdwgnn+xeF309vsrnj1IAg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "expodent-chandigarh@expodent-chandigarh-179111.iam.gserviceaccount.com",
+  "client_id": "104261910050007722013",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/expodent-chandigarh%40expodent-chandigarh-179111.iam.gserviceaccount.com"
+}

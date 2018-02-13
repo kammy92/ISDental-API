@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "actknow-project",
+  "private_key_id": "8153cec54d15cc6208cd80d5f5d7104957e95f9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC/g3i4AgkuJk3r\nyrDsxrvJ5IxNY6ndoKAbV8TJmxLKWveSMlpC9/TPgPh/YN/J4ukCJ4cQzny9EXeB\nw80Bsyi4LqWy77ed1Hya9riPlt+QT1aIKm5FSRAmu+ChMHSsY1mHgBDtc1qvEptL\nYtF8P3CYDcIlTaQ/6Yo64zSYItNHE4GipTbqsGaUjmuWryzs66lG1sxp0B9vO1jC\nsJ/Bjv7coBr0mq8+LFf2UWMoHfIDwcdpowiI33GRdT4VrHsvaDjqEX8qxVJtfzsZ\nxxSq76YL2MwbxHsm5l5YL3bSsHxioH943pMFKTyFeGLMDSjJwYo0a3LU8XvX9u9Q\nlyAkDE75AgMBAAECggEABQQYAtXG0McfDlhyNtljrL+ILzS3i777wouTc2ZU4Sjt\nyA36kDt3VYH+wDNU2TBQwwYvAvEtkjQlaagrs+ox3FUYcO3XZNJeax6gKd6dP2Xc\nkdduqPDnc+RC12XyAFvfye1ARD/bta8qkxhk/TiaJdliZuC4NxZSUQWHaJ6s4vUj\nu9JeOphm3Ejl8ztqZ8T1FjtrvHgDBWA5vB9QzmIecC/Hqt3DcA6a9cV391HdoSnB\n866sx1kZbOhicF12qYzH7wQ1oAHakana1djOV9PywOq6jTZmdA9eoxrmcuafi3oX\n+DtDdItPgUcLuEi28GXHAwexkxWs2D5koJ9Ai5fDQQKBgQDhVz0L8OlOViVsJFbK\ng18QIlP2hS80IMh8ua9XFaYrMyjlf5UcYby4KAdWzCK4v2z1nGWbGCPpiyqFNXIW\nrXK2xEW/yqYPodHkPcPirApWmovPn7jnFp26RLYddXVTRrMZDEqVDu2U54rf7f73\nC0I45+UqI/oOJseFpQC3CVRN6QKBgQDZkgKFXEQBshrQJk2zSyUds0/ooG8uqQPO\nyMrbsc/MO+On5ppL0oMCjitdTLgxSJlCCf7xgELpCh+RnVphE04ZtG14M/rI3tph\nROlwsHqWhzof6gsuR/CLP3cHg/820KpLdKvmuX49Hgg1MMOEIKyYZKeZ7nMmtpfn\nsR+ra6f+kQKBgQDMIgRaUeZ4IZALFCxPjozKh955/xLQ7TXRz0Bo6mK61cChjl8c\n8+lLBnAHkCuQI1FoekKNKmQ2B+z/+Xed1YiKyujIoqKmnJgQZGeUavd+lsg60N1m\n8lT2TZKQwzwCsZRDB6B0wa416z8iNm53i4p1FJXEBA1dToIGroAkT95AKQKBgQCm\n5mzspMS+kEQlXNzKJ2EHkaBBEaF4p8r1++4x7gs73s1a5XmDpK8/bJQzdEDv/YMj\nt8tMs1mgr1VcPNsyEL8e1NwNE8LUCLB5YYW6HodLpdye0slU7XbHOx4yM7257QRV\n8eBUlAMVG06sjwXM+8uq87vmR5cqIXQSFjv3IhSzIQKBgQCfJ+0hTCckuug+9R+p\nM5K2Xd9+N5rn18as/mU+WJvUZI12CzRBs4Eoo/0NFJGIxVh/ykJSaN7CqVBVTGoJ\nzQsEmrtoAvbD1UmY/5qstpg+M8sGkgAX15B79cD610fLMsKqgxyqeS1BRdCIs2JA\nPN15Nbcg5UEqAieaSO1A/shaNg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-sms-account@actknow-project.iam.gserviceaccount.com",
+  "client_id": "115442116260852619249",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-sms-account%40actknow-project.iam.gserviceaccount.com"
+}
